@@ -1,0 +1,6 @@
+framework module MapNavigationKit {
+  umbrella header "MapNavigationKit.h"
+
+  export *
+  module * { export * }
+}
